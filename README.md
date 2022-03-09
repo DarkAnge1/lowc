@@ -15,6 +15,6 @@ Stress could be pasted as URLs with parameters greatly increasing stress vector.
 
 # Automated stress tests
 
-In order to start automated stress testing of the URL, passing of stressUrl is enough. This would trigger automatick click of the start button.
+In order to start automated stress testing of the URL, passing of stressUrl is enough. This would trigger automatic click of the start button.
 
 Enjoy! 

@@ -176,10 +176,10 @@ function change_hive(hiveID){
 
 //Elimina el valor "http://" al obtener el foco.
 function erase(id){
-	$(id).val('');
+	// $(id).val('');
 }
 
 //Restaura el valor "http://" al perder el foco.
 function reload(id){
-	$(id).val('');
+	// $(id).val('');
 }
